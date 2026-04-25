@@ -1,0 +1,14 @@
+{
+  "name": "unmapped",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "UNMAPPED Challenge 05 — World Bank Youth Summit hackathon",
+  "scripts": {
+    "prepare:esco": "node scripts/02-esco.js",
+    "prepare:all": "node scripts/02-esco.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}

@@ -1,0 +1,572 @@
+[
+  {
+    "uri": "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f",
+    "title": "show initiative",
+    "reuseLevel": "transversal",
+    "description": "Be proactive and take the first step in an action without waiting for what others say or do."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/0171653e-c8e9-4c24-bb86-a4b6fe038f25",
+    "title": "adopt ways to foster biodiversity and animal welfare",
+    "reuseLevel": "transversal",
+    "description": "Engage in behaviours that help maintaining stable ecosystems and combatting mass extinction, for example by making conscious dietary choices that support organic food production and animal welfare."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/045f71e6-0699-4169-8a54-9c6b96f3174d",
+    "title": "advise others",
+    "reuseLevel": "transversal",
+    "description": "Offer suggestions about the best course of action."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/05aa7c09-46e7-433f-a81b-92841f4551e7",
+    "title": "accept criticism and guidance",
+    "reuseLevel": "transversal",
+    "description": "Handle negative feedback from others and react openly to criticism, trying to identify in it potential areas for improvement."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/0b709c64-a57a-4976-86bd-34d2cf34fa4f",
+    "title": "apply knowledge of philosophy, ethics and religion",
+    "reuseLevel": "transversal",
+    "description": "Discover and develop an individual perspective about one's roles, meaning and purpose, including what it means to live, to die and to be human."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/0d75a128-bd88-4c1b-b70d-8e963aeb490c",
+    "title": "adopt ways to reduce pollution",
+    "reuseLevel": "transversal",
+    "description": "Apply measures to reduce air, noise, light, water or environmental pollution, for example by using public transports, not leaving any waste in the natural environment, and reducing unnecessary light and noise emissions, particularly during the night."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/113b4428-0a31-4199-8496-070af7854b91",
+    "title": "meet commitments",
+    "reuseLevel": "transversal",
+    "description": "Perform one's tasks in a self-disciplined, reliable and goal-oriented manner."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/13b4a3d2-abdf-4442-8e52-d7464a58ecbc",
+    "title": "adjust to physical demands",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate the capacity to endure high physical stress from work or sport. It includes kneeling, standing or running for a long time or working under difficult meteorological conditions such as strong heat, cold and rain."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+    "title": "assume responsibility",
+    "reuseLevel": "transversal",
+    "description": "Accept responsibility and accountability for one's own professional decisions and actions, or those delegated to others."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/19a64e91-bfe3-4c48-9225-3bb1229b12f0",
+    "title": "show determination",
+    "reuseLevel": "transversal",
+    "description": "Show commitment to do something that is difficult and requires hard work. Display great effort driven by an interest or enjoyment in work itself, in the absence of external pressures."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186",
+    "title": "carry out calculations",
+    "reuseLevel": "transversal",
+    "description": "Solve mathematical problems to achieve work-related goals."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/1d1fedcb-4995-44ac-90f5-f31a157ce512",
+    "title": "manage frustration",
+    "reuseLevel": "transversal",
+    "description": "Stay calm and react in a constructive way to own or others' anger or when faced with obstacles or complaints."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/1dabb413-18e8-48ed-a963-44978e67ad32",
+    "title": "calculate probabilities",
+    "reuseLevel": "transversal",
+    "description": "Predict the probability of an outcome based on calculations or experience."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/1ddc021d-d818-4731-904f-842d7491f419",
+    "title": "manage financial and material resources",
+    "reuseLevel": "transversal",
+    "description": "Undertake effective financial planning, using credit, savings, investments and pensions to achieve short and long term goals, using financial advices and guidance services with a critical mindset, comparing deals and offers when acquiring products or services and actively selecting appropriate insur"
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/1fce1197-3a5b-45b7-8797-575cd3b57a01",
+    "title": "show commitment",
+    "reuseLevel": "transversal",
+    "description": "Show willingness to take on tasks immediately, even if they are difficult or uncomfortable."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/20012caa-b63c-4cb9-b2b8-01a1cfdfc1d1",
+    "title": "think quickly",
+    "reuseLevel": "transversal",
+    "description": "Be able to grasp and process the most important aspects of facts and their connections quickly and accurately."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/2aaad52d-599e-4e77-a681-bbc236825821",
+    "title": "evaluate environmental impact of personal behaviour",
+    "reuseLevel": "transversal",
+    "description": "Adopt a sustainability-oriented mindset in you daily life and reflect on your personal ecological attitude and on the environmental impact of your behaviour."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/35ebe444-9ece-4fbc-a55d-e99ea37267ae",
+    "title": "manage quality",
+    "reuseLevel": "transversal",
+    "description": "Pursue excellence in workplace processes, products and activities."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/409a0245-0e6c-4aac-ba16-0920ecb76a8d",
+    "title": "exercise self-reflection",
+    "reuseLevel": "transversal",
+    "description": "Effectively, regularly and systematically reflect on own actions, performance, and attitudes, and make necessary adjustments, seeking professional development opportunities to plug knowledge and practice gaps in identified areas. Evaluate the impact of your own professional development."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/429062f1-a958-43ea-83dd-4e1af078c156",
+    "title": "demonstrate curiosity",
+    "reuseLevel": "transversal",
+    "description": "Show a lively interest in novelty, an openness to experience, find subjects and topics fascinating, actively explore and discover new areas."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/468135b7-5757-48c3-9509-fde0e13ec5be",
+    "title": "manage personal progression",
+    "reuseLevel": "transversal",
+    "description": "Take charge of and market your own skills and competences to advance in work and private life."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/469748ce-051a-407e-9099-0c9415ac2705",
+    "title": "approach challenges positively",
+    "reuseLevel": "transversal",
+    "description": "Adopt a positive attitude and a constructive approach when dealing with challenges."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137",
+    "title": "think analytically",
+    "reuseLevel": "transversal",
+    "description": "Produce thoughts using logic and reasoning in order to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+    "title": "adapt to change",
+    "reuseLevel": "transversal",
+    "description": "Alter one's attitude or behaviour to accommodate modifications in the workplace."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/4c3ab565-747c-4db3-8c47-79e8d6f98cf4",
+    "title": "adopt ways to reduce negative impact of consumption",
+    "reuseLevel": "transversal",
+    "description": "Apply principles, policies and regulations aimed at environmental sustainability, including the reduction of waste, energy and water consumption, the reuse and recycling of products, and the engagement in the sharing economy."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/4c772721-9280-49cb-9988-b6ea3d36b06d",
+    "title": "maintain psychological well-being",
+    "reuseLevel": "transversal",
+    "description": "Be able to avoid threats to psychological well-being, for example while using digital technologies, including the maintenance of a healthy work-life-learn balance."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/4cde32b5-fc2f-4257-a8b9-5b15a67ee3e5",
+    "title": "protect the health of others",
+    "reuseLevel": "transversal",
+    "description": "Prevent harm from and support recovery of family members, wards, and fellow citizens, including adequate responses in case of accidents like the provision of first aid."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/5b46f572-7ced-4efd-b270-a81a164d521c",
+    "title": "moderate a discussion",
+    "reuseLevel": "transversal",
+    "description": "Apply moderation techniques and methods to lead discussions between two or more people, including situations such as workshops, conferences or online events. Ensure the correctness and politeness of the debate."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/5c3ab99d-a3f1-4620-9602-d12d2151a03d",
+    "title": "apply knowledge of science, technology and engineering",
+    "reuseLevel": "transversal",
+    "description": "Develop and apply an understanding of the physical world and its governing principles, for example by making reasonable predictions about causes and effects, conceiving tests of these predictions and carrying out measurements using suitable units, tools and equipment."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/5c526c52-4f0a-4647-8c51-c91568acebb1",
+    "title": "process spatial information",
+    "reuseLevel": "transversal",
+    "description": "Be able to mentally imagine the position and relationship of bodies in three-dimensional spaces, developing a good sense of proportion."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf",
+    "title": "respect the diversity of cultural values and norms",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate intercultural competence and respect for one's own cultural values and norms. Show tolerance of and appreciation for the different values and norms held by different people and cultures and developed under different circumstances or in different times and places."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/5cd1930c-278d-4929-b413-27352f5b3687",
+    "title": "cope with uncertainty",
+    "reuseLevel": "transversal",
+    "description": "Tolerate and work constructively within unexpected and unpredictable situations."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a",
+    "title": "address an audience",
+    "reuseLevel": "transversal",
+    "description": "Speak in a structured, deliberate and face-to-face manner to a group of listeners to inform, influence, or entertain them."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "title": "work in teams",
+    "reuseLevel": "transversal",
+    "description": "Work confidently within a group with each doing their part in the service of the whole."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/669b75d8-671c-4a1c-8e0b-6466c513c27d",
+    "title": "show confidence",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate degrees of maturity by fully understanding one's own qualities and abilities which can serve as sources of confidence in different situations."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b",
+    "title": "instruct others",
+    "reuseLevel": "transversal",
+    "description": "Guide or teach others by providing relevant knowledge and support."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/6b2f8802-0cbf-436e-a37f-ca55ede41bbc",
+    "title": "operate digital hardware",
+    "reuseLevel": "transversal",
+    "description": "Use equipment such as monitor, mouse, keyboard, storage devices, printers and scanners to perform operations such as plugging in, starting up, shutting down, rebooting, saving files and other operations."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/6b305973-8993-475f-bd8a-daf037c61401",
+    "title": "organise information, objects and resources",
+    "reuseLevel": "transversal",
+    "description": "Understand your tasks and the processes that go with them. Organize information, objects and resources using systematic methods and according to given standards and ensure that the task is mastered."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/6fc6f757-6baa-49fe-9a82-6ba6a52f2e13",
+    "title": "interpret mathematical information",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate an understanding of mathematical terms and concepts, and apply basic mathematical principles and processes to interpret data and facts."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/72d1fa5d-1b7f-48e7-84e3-6e779841ddf1",
+    "title": "demonstrate loyalty",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate inner attachment to a group or organization, including by sharing and representing their values."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207",
+    "title": "lead others",
+    "reuseLevel": "transversal",
+    "description": "Guide, coach and direct others towards the achievement of common goals, embracing a leadership role often in a group or team. Perform, act, and behave in a manner that inspires collaborators to follow the example given by their managers."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/77b636e8-fab3-41a8-8022-1e0a354059dc",
+    "title": "show empathy",
+    "reuseLevel": "transversal",
+    "description": "Show empathy in order to prevent any kind of symbolic violence and isolation and to guarantee a considerate attention to everyone. It should include a capacity to understand various verbal and non-verbal communication of sentiment and feeling."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+    "title": "negotiate compromises",
+    "reuseLevel": "transversal",
+    "description": "Communicate with others with the intention of reaching a common understanding or to resolve a point of difference, without losing sight of one's own or others' intentions or goals."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d",
+    "title": "cope with stress",
+    "reuseLevel": "transversal",
+    "description": "Handle challenges, disruption and change and recover from set-backs and adversity."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7a93e22f-54d8-4bf0-9213-d711f6601b49",
+    "title": "work efficiently",
+    "reuseLevel": "transversal",
+    "description": "Achieve objectives using minimum amount of time, effort, or cost."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7d9bace0-63d0-4848-ac87-350a98082c12",
+    "title": "participate actively in civic life",
+    "reuseLevel": "transversal",
+    "description": "Actively engage in activities for the common or public interest such as civic, community or neighbourhood initiatives, volunteering opportunities and non-governmental organisations."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+    "title": "think critically",
+    "reuseLevel": "transversal",
+    "description": "Make and defend judgements based on internal evidence and external criteria. Critically evaluate the credibility and reliability of information before using or passing it on to others. Develop independent and critical thinking."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/7f321b88-3d16-4e30-8163-5494ca8ce978",
+    "title": "engage others in environment friendly behaviours",
+    "reuseLevel": "transversal",
+    "description": "Inform about and promote environmental friendly behaviours in social networks and at work."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7",
+    "title": "attend to detail",
+    "reuseLevel": "transversal",
+    "description": "Accomplish a task with concern for all the areas involved, no matter how small."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/88b0c49e-7c2e-4ccc-aca3-fbd4bbc2081c",
+    "title": "make an informed use of the health-care system",
+    "reuseLevel": "transversal",
+    "description": "Identify and select the right preventive and curative services or agencies that offer healthcare services and manage safely the appropriate medications."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/896a5e0c-7ac9-4e59-a9bf-17fdca6b1c37",
+    "title": "promote the principles of democracy and rule of law",
+    "reuseLevel": "transversal",
+    "description": "Take an active role in promoting the principles of democracy, social justice and the rule of law. Confront discrimination based on ethnic, cultural or sexual identity or orientation as well as social, educational, or economic background, by assessing and voicing the implications for different groups"
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/93350886-a21b-4e61-a1b1-319a325c0f90",
+    "title": "express yourself creatively",
+    "reuseLevel": "transversal",
+    "description": "Be able to use singing, dancing, instrumental music, acting or fine arts to express oneself creatively."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/96de2e86-e287-41f2-88ab-15a2343afc6f",
+    "title": "resolve conflicts",
+    "reuseLevel": "transversal",
+    "description": "Mediate in conflicts and tense situations by acting between parties, striving to effect an agreement, reconciliate, and resolve problems. Settle a conflict in such a way that none of the victims feels badly treated and avoid arguments in advance."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/98a999db-72d5-4657-a0b0-2f850afd4368",
+    "title": "appreciate diverse cultural and artistic expression",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate asthetic sensibility, interest for and opennes to cultural expressions from different cultural backgrounds."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/9bf266a6-188b-4d17-a22f-2f266d76832b",
+    "title": "demonstrate willingness to learn",
+    "reuseLevel": "transversal",
+    "description": "Show a positive attitude towards new and challenging demands that can only be met via lifelong learning."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/9c0f93f7-2592-4d4d-9673-fd640502345f",
+    "title": "use equipment, tools or technology with precision",
+    "reuseLevel": "transversal",
+    "description": "Use workpieces, tools, precision instrumentation or equipment independently to carry out manual activities, with or without minimal training."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/9cfd2219-553c-4d67-81e5-951e87c65135",
+    "title": "maintain concentration for long periods",
+    "reuseLevel": "transversal",
+    "description": "Stay concentrated over a long period of time in order to make correct judgements and appropriate decisions."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/a628d2d1-f40a-4c37-a357-2801726f2996",
+    "title": "identify problems",
+    "reuseLevel": "transversal",
+    "description": "Identify and detect problems and issues and decide on the best course of action. Report problems accordingly when needed."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/a68bdf1e-b325-4880-b456-192c2891931a",
+    "title": "maintain physical fitness",
+    "reuseLevel": "transversal",
+    "description": "Adopt and apply preventive healthy behaviours, including regular physical exercise, a healthy sleep-routine, and a healthy diet."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+    "title": "solve problems",
+    "reuseLevel": "transversal",
+    "description": "Find solutions to practical, operational or conceptual problems in a wide range of contexts."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9",
+    "title": "delegate responsibilities",
+    "reuseLevel": "transversal",
+    "description": "Delegate responsibilities, activities and tasks to others according to the ability, level of preparation and competence. Make sure that people understand what they should do and when they should do it."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b080a008-a35d-4bd0-92e9-edf3773bb2b7",
+    "title": "use communication and collaboration software",
+    "reuseLevel": "transversal",
+    "description": "Use simple digital tools and technologies for communicating, interacting and collaborating with others."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3",
+    "title": "build team spirit",
+    "reuseLevel": "transversal",
+    "description": "Build a relationship of mutual trust, respect and cooperation among members of the same team."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b40584aa-7c63-4eed-9422-a9798fb95fdc",
+    "title": "improvise",
+    "reuseLevel": "transversal",
+    "description": "Be able to improvise and react immediately and without planning ahead to situations that you did not know before."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b618584f-6bdf-4d8f-89a7-f28c2c95afc2",
+    "title": "comply with regulations",
+    "reuseLevel": "transversal",
+    "description": "Comply with and respect the rules, regulations and guidelines relating to a specific domain or sector and apply them in your daily work."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/b6bdf202-524f-475d-b813-2aa9af005c37",
+    "title": "move objects",
+    "reuseLevel": "transversal",
+    "description": "Perform physical activities to move, load, unload or store objects or to climb structures, by hand or with the aid of equipment."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/ba93b71b-c433-4a01-8246-ed2daa85a9a2",
+    "title": "conduct web searches",
+    "reuseLevel": "transversal",
+    "description": "Search data, information and content through simple searches in digital environments."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97",
+    "title": "manage digital identity",
+    "reuseLevel": "cross-sector",
+    "description": "Create and manage one or multiple digital identities, be able to protect one's own reputation, deal with the data that one produces through several digital tools, environments and services."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/bcf002ce-90f8-42e5-ac1b-5dba208639b0",
+    "title": "demonstrate trustworthiness",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate honesty, integrity and credibility in the workplace. Show loyalty to your team and organisation and prove trustworthiness."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/bdcf429c-5ccf-4c3d-bb61-4c987573a35e",
+    "title": "show entrepreneurial spirit",
+    "reuseLevel": "transversal",
+    "description": "Develop, organise and manage an own business venture, identifying and pursuing opportunities and mobilising resources, keeping in mind a profitability perspective. Demonstrate a proactive attitude and determination to achieve success in business."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822",
+    "title": "report facts",
+    "reuseLevel": "transversal",
+    "description": "Relay information or recount events orally."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/bf4d884f-c848-402a-b130-69c266b04164",
+    "title": "apply basic programming skills",
+    "reuseLevel": "transversal",
+    "description": "List simple instructions for a computing system to solve problems or perform tasks at a basic level and with appropriate guidance where needed."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/bf983f2a-e941-4646-811d-cc81060cb53f",
+    "title": "build networks",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate the ability to build effective relationships, to develop and maintain alliances, contacts or partnerships, and to exchange information with others."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/c10d5d87-36cf-42f5-8a12-e560fb5f4af8",
+    "title": "demonstrate intercultural competence",
+    "reuseLevel": "transversal",
+    "description": "Understand and respect people who are perceived to have different cultural affinities, and respond effectively and respectfully to them."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730",
+    "title": "work independently",
+    "reuseLevel": "transversal",
+    "description": "Develop one's own ways of doing things, motivating oneself with little or no supervision, and depending on oneself to get things done."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458",
+    "title": "think innovatively",
+    "reuseLevel": "transversal",
+    "description": "Develop ideas or conclusions that lead to the creation and implementation of innovations or changes."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/c4180af3-befd-4bd8-9a65-6a496f9d9f15",
+    "title": "demonstrate awareness of health risks",
+    "reuseLevel": "transversal",
+    "description": "Be able to judge and manage risks to personal health, for example by following safety precautions in work practices, applying fire protection measures, respecting and applying ergonomics and taking account of the effects of drugs and alcohol on individuals, families and communities."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+    "title": "think creatively",
+    "reuseLevel": "transversal",
+    "description": "Generate new ideas or combine existing ones to develop innovative, novel solutions."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/d56e2c2f-3e01-4b76-a7bb-ecb6d430172f",
+    "title": "think holistically",
+    "reuseLevel": "transversal",
+    "description": "Take into account indirect and long-term consequences when planning and making decisions. Consider the effects on other people, processes and the environment and include these in your planning."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47",
+    "title": "make decisions",
+    "reuseLevel": "transversal",
+    "description": "Make a choice from several alternative possibilities."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/d822b4b2-26c7-4bd9-970d-229c6504f615",
+    "title": "create digital content",
+    "reuseLevel": "transversal",
+    "description": "Create and edit simple items of digital content, where needed with guidance."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8",
+    "title": "manage time",
+    "reuseLevel": "transversal",
+    "description": "Plan the time sequence of events, programmes and activities, as well as the work of others."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/d9449998-c1f5-478c-a103-2255398cf0b6",
+    "title": "apply hygiene standards",
+    "reuseLevel": "transversal",
+    "description": "Take personal responsibility to guarantee a safe and non-infectious work and life environment, including the use of masks, disinfectants and general personal hygiene."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/db33c0f3-43ee-4ba3-ba47-9269ac837697",
+    "title": "critically evaluate information and its sources",
+    "reuseLevel": "transversal",
+    "description": "Be able to evaluate and analyse information and its sources. Demonstrate the ability to access and have a critical understanding of both traditional and new forms of media and their role and function in democratic societies."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/dcc99418-d896-4b3b-8596-658093a17a8f",
+    "title": "manage chronic health conditions",
+    "reuseLevel": "transversal",
+    "description": "Identify and use ways to minimise negative effects of chronic health conditions, including the use of seeing, hearing and walking aids, appropriate medications and adequate social and medical support."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/deb3c1bc-d48a-42e6-b0cc-cb238534ec28",
+    "title": "apply knowledge of social sciences and humanities",
+    "reuseLevel": "transversal",
+    "description": "Demonstrate an understanding of the nature, plurality and function of social and political groups, and their relation with the socioeconomic dimension of the society. Understand the role and place of individuals in society."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868",
+    "title": "promote ideas, products, services",
+    "reuseLevel": "transversal",
+    "description": "Present and advertise products, programs and services with the goal of persuading and influencing others."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507",
+    "title": "motivate others",
+    "reuseLevel": "transversal",
+    "description": "Direct other people's behaviour by providing them with a convincing reason for action."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/e37d64dc-0f05-4ee8-b065-bf76f70d8f5c",
+    "title": "respect confidentiality obligations",
+    "reuseLevel": "transversal",
+    "description": "Observe the necessary discretion and restraint when dealing with confidential, secret or unpleasant information."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a",
+    "title": "plan",
+    "reuseLevel": "transversal",
+    "description": "Manage one's time schedule and resources in order to finish tasks in a timely manner."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/ef7562b2-f176-4d7c-a0b2-27ae8cce0b7d",
+    "title": "react to physical changes or hazards",
+    "reuseLevel": "transversal",
+    "description": "React and respond quickly quickly and appropriately to external or internal circumstances and stimuli."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/f4346299-e22a-4686-8e61-2c9b0cd51c7d",
+    "title": "apply digital security measures",
+    "reuseLevel": "transversal",
+    "description": "Follow simple ways to protect digital devices and content."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/f4bcdb75-df28-441d-a52b-9730904f36a1",
+    "title": "exercise rights and responsibilities",
+    "reuseLevel": "transversal",
+    "description": "Be aware of and make use of constitutional and legal rights, including the duty to obey the law, pay taxes, and render assistance as well as the right to vote, to be elected, or to have a defence lawyer present in trial."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/fa46a48d-9cb9-422d-afab-1047654dbcdd",
+    "title": "memorise information",
+    "reuseLevel": "transversal",
+    "description": "Store information such as words, numbers, pictures and procedures for later retrieval."
+  },
+  {
+    "uri": "http://data.europa.eu/esco/skill/fd89f784-88dc-4d35-abd7-86aa073cab12",
+    "title": "keep an open mind",
+    "reuseLevel": "transversal",
+    "description": "Be interested and open to the problems of others."
+  }
+]

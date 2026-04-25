@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+
+# Raw ESCO bundle — agents pull from official source, derivatives are in /data/esco-derived/
+data/esco-raw/
+
+# API scratch / experiments
+data/esco/
+
+# Build output
+dist/
+build/
+.vite/
+.next/
